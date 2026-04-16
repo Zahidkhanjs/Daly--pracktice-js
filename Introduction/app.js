@@ -56,3 +56,18 @@ var age = 23
 var firstname = prompt("Enter your name ")
 var age = prompt( "Type your ange ")
 var lastname =prompt ("Enter your last name ")
+
+
+
+// initlize    bana dayna 
+// reassign    usi may kuch changes kerna 
+// redeclear    usi ko nia nam dena 
+
+
+
+var username = ("zahid khan")
+console.log(username);  // initlize  kia 
+username =("sabirkhan")  // reassigne  kia 
+var username = ( "sabir khan shahwani ")
+
+
